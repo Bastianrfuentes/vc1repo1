@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 
 <head>
     <meta charset="UTF-8">
@@ -9,15 +9,10 @@
 </head>
 
 <body>
-    <h1>titulo</h1>
-    <ol>
-        <li>item5</li>
-        <li>item5</li>
-        <li>item5</li>
-        <li>item5</li>
-    </ol>
-    <p>Parrafo que no dice nada interesante</p>
-    <a href="pagina1.html">Ir a página 1</a>
+    <h1>rama 1</h1>
+    <h2>ejemplo de una rama</h2>
+    <a href="index.html">volver</a>
+
 </body>
 
 </html>
